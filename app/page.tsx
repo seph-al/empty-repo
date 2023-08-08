@@ -6,7 +6,7 @@ export default function Home() {
     <div className="mx-auto max-w-7xl py-20 px-6 lg:py-24">
         <div className="relative">
        
-          <h1>Jonathan Lewis</h1>
+          <h1>Joseph al Javier</h1>
 
           <div
             className="relative z-10 grid grid-cols-1 gap-10 lg:grid-cols-4 xl:gap-24"
